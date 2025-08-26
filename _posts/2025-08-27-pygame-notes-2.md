@@ -2,6 +2,7 @@
 layout: post
 title: "Pygame Notes - 2"
 date: 2025-08-26
+categories: pygame
 ---
 
 # Board games, placements
