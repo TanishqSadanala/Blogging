@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pygame Notes - 2"
-date: 2025-08-23
+date: 2025-08-26
 ---
 
 # pygame notes-2
@@ -22,9 +22,8 @@ I’m not good at math, so I need to _see_ things.
 
 ----------
 
-![norm_cart.png](attachment:25c540ca-acf2-49da-a740-674c54841e39:norm_cart.png)
-
-![pygame_cart.png](attachment:f6e89b05-8f33-48ad-8247-f5e7bb8c8076:pygame_cart.png)
+| ![norm_cart.png]({{ '/assets/norm_cart.png' | relative_url }}) | ![pygame_cart.png]({{ '/assets/pygame_cart.png' | relative_url }}) |
+|:--:|:--:|
 
 ### **Board Games**
 
@@ -51,7 +50,8 @@ for y in range(rows):
 -   Loop over rows & cols
 -   Multiply by `cell_size`
 -   Draw rectangles 
-![Recording 2025-08-25 152354.gif](attachment:cd964b8a-bd9b-4e59-b16c-731ac08f0b5b:Recording_2025-08-25_152354.gif)
+
+![Recording 2025-08-25 152354.gif](/assets/Recording_2025-08-25_152354.gif)
 ----------
 
 > Tip: If nested loops confuse you → watch this quick [Nested loops](https://youtu.be/qwvswinpu2s) video
