@@ -7,7 +7,6 @@ Welcome to my coding notes and experiments.
 
 ---
 
-##  All Posts by category
 
 {% for category in site.categories %}
 ### {{ category[0] | capitalize }}
