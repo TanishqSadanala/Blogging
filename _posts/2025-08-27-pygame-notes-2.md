@@ -22,8 +22,9 @@ I’m not good at math, so I need to _see_ things.
 
 ----------
 
-| ![norm_cart.png]({{ '/assets/norm_cart.png' | relative_url }}) | ![pygame_cart.png]({{ '/assets/pygame_cart.png' | relative_url }}) |
+| ![norm_cart]({{ '/assets/norm_cart.png' | relative_url }}){: width="300" } | ![pygame_cart]({{ '/assets/pygame_cart.png' | relative_url }}){: width="300" } |
 |:--:|:--:|
+| Normal Cartesian | Pygame Cartesian |
 
 ### **Board Games**
 
@@ -51,7 +52,7 @@ for y in range(rows):
 -   Multiply by `cell_size`
 -   Draw rectangles 
 
-![Recording 2025-08-25 152354.gif](/assets/Recording_2025-08-25_152354.gif)
+![Recording 2025-08-25 152354.gif]({{ '/assets/Recording_2025-08-25_152354.gif' | relative_url }}){: width="300" }
 ----------
 
 > Tip: If nested loops confuse you → watch this quick [Nested loops](https://youtu.be/qwvswinpu2s) video
@@ -93,7 +94,7 @@ else:
 
 ----------
 
-![Screenshot 2025-08-25 153442.png](attachment:30afabd6-a7b7-4f7d-a8de-ad74afd58737:Screenshot_2025-08-25_153442.png)
+![Screenshot 2025-08-25 153442.png]({{ '/assets/Screenshot_2025-08-25_153442.png' | relative_url }}){: width="300" }
 
 **Slight problem here!**
 
@@ -214,7 +215,7 @@ while True:
 ----------
 
 ----------
-![Screenshot 2025-08-25 203638.png](attachment:c88466e5-e1a1-4bdd-a472-0aafce10fc9c:Screenshot_2025-08-25_203638.png)
+![Screenshot 2025-08-25 203638.png]({{ '/assets/Screenshot_2025-08-25_203638.png' | relative_url }}){: width="300" }
 ### Quick recap
 
 -   Grid basics (just rect loops)
