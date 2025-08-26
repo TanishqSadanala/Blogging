@@ -26,7 +26,6 @@ I’m not good at math, so I need to _see_ things.
 
 > I took examples from [Pygame Docs](https://pygame.readthedocs.io/en/latest/9_board/board.html) since they have no code.
 
-</aside>
 
 ----------
 
@@ -93,8 +92,6 @@ else:
 ![Screenshot 2025-08-25 153442.png]({{ '/assets/Screenshot_2025-08-25_153442.png' | relative_url }}){: width="300" }
 
 **Slight problem here!**
-
-</aside>
 
 > We are drawing the squares on the screen for each loop.
 > 
