@@ -7,10 +7,12 @@ Welcome to my coding notes and experiments.
 
 ---
 
-##  All Posts
+##  All Posts by category
 
+{% for category in site.categories %}
+### {{ category[0] | capitalize }}
 <ul>
-  {% for post in site.posts %}
+  {% for post in category[1] %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       <span style="color:gray; font-size:0.9em;">
@@ -19,5 +21,5 @@ Welcome to my coding notes and experiments.
     </li>
   {% endfor %}
 </ul>
-
+{% endfor %}
 
