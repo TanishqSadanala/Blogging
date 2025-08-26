@@ -1,0 +1,13 @@
+title: "Tanishq Sadanala"
+description: "Music • Coding • Notes"
+theme: minima
+
+url: "https://tanishqsadanala.github.io"
+baseurl: "/Coding_blog"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+lang: en
+timezone: America/New_York
