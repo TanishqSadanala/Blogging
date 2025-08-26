@@ -4,10 +4,6 @@ title: "Pygame Notes - 2"
 date: 2025-08-26
 ---
 
-# pygame notes-2
-
-----------
-
 # Board games, placements
 
 ----------
