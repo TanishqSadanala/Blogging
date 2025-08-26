@@ -2,6 +2,7 @@
 layout: post
 title: "Pygame Notes - 1"
 date: 2025-08-23
+categories: pygame
 ---
 
 ![Author](https://img.shields.io/badge/author-Tanishq_Sadanala-blue)
