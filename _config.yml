@@ -11,3 +11,6 @@ plugins:
 
 lang: en
 timezone: America/New_York
+
+minima:
+  custom_head: custom-head.html
