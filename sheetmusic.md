@@ -2,6 +2,7 @@
 layout: page
 title: Sheet Music
 permalink: /sheetmusic/
+nav_order: 4
 ---
 
 <style>
