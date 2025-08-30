@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+nav_order: 3
 ---
 
 I’m Tanishq Sadanala — Musician and IT professional.  
