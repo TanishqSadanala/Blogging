@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+nav_order: 2
 ---
 
 Welcome to my coding notes and experiments.
