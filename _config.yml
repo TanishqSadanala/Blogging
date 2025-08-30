@@ -12,3 +12,10 @@ plugins:
 lang: en
 timezone: America/New_York
 
+header_pages:
+  - index.md
+  - blog.md
+  - about.md
+  - sheetmusic.md
+
+
