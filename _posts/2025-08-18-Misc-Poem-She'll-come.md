@@ -5,8 +5,6 @@ date: 2025-08-18
 categories: Misc.
 ---
 
-# She’ll come  
-
 <br>
 
 > **Come O mother of death, Come to me—  
@@ -36,8 +34,16 @@ categories: Misc.
 [^2]: *Chain* — Family/Friend bond in this Context
 [^3]: *Sain* —  Bless; variant spelling of *sane*
 ---
+<br>
+<br>
+<br>
 I wrote this poem on a moody afternoon, after a deep philosophical discussion with myself about how amazing death is.  
 Even with my janky English, I tried to portray my inner feelings as transparently as possible.  
+<br>
+<br>
 
 > [!WARNING]  
 > This poem is a conceptual reflection on death—philosophical, not literal. Please do not interpret it as encouraging self-harm.
+
+<br>
+<br>
