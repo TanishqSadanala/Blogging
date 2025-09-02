@@ -42,7 +42,7 @@ Even with my janky English, I tried to portray my inner feelings as transparentl
 <br>
 <br>
 
-> [!WARNING]  
+![warning](https://img.shields.io/badge/Warning-yellow?style=for-the-badge&logo=github) 
 > This poem is a conceptual reflection on death—philosophical, not literal. Please do not interpret it as encouraging self-harm.
 
 <br>
