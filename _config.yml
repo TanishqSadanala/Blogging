@@ -3,7 +3,7 @@ description: "Music • Coding • Notes"
 theme: minima
 
 url: "https://tanishqsadanala.github.io"
-baseurl: "/Coding_blog"
+baseurl: "/Blogging"
 
 plugins:
   - jekyll-feed
