@@ -52,8 +52,6 @@ nav_order: 4
 .hidden{ display:none !important }
 </style>
 
-<h1 class="sheet-title">Sheet Music</h1>
-
 <div class="filters" role="tablist" aria-label="Filter scores">
   <button type="button" class="filter-btn active" data-filter="all" role="tab" aria-selected="true">All</button>
   <button type="button" class="filter-btn" data-filter="Composed" role="tab" aria-selected="false">Composed</button>
