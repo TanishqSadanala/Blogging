@@ -7,7 +7,8 @@ categories: Misc.
 
 <br>
 
-> **Come O mother of death, Come to me—  
+> **Come O mother of death,<br>
+> Come to me—  
 > I’m stuck in this barren heath [^1],  
 > Set me free—**  
 >   
